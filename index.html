@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./css/simpleSlider.min.css">
+  <title>SimpleSlider - Demo</title>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- Slider -->
+  <div class="simple-slider page-slider" style="width:931px;height:438px">
+    <div class="slider-wrapper" >
+      <!-- First slide -->
+      <div class="slider-slide">
+        <img src="./destacadas/destacada1.png">
+      </div>
+
+      <!-- Second slide -->
+      <div class="slider-slide">
+        <img src="./destacadas/destacada2.png">
+      </div>
+
+      <!-- Third slide -->
+      <div class="slider-slide">
+        <img src="./destacadas/destacada3.png">
+      </div>
+
+      <!-- Fourth slide -->
+      <div class="slider-slide">
+        <img src="./destacadas/destacada4.png">
+      </div>
+    </div>
+
+    <!--Pagination (Not required)-->
+    <div class="slider-pagination"></div>
+
+    <!-- Buttons (Not required) -->
+    <div class="slider-btn slider-btn-prev" ></div>
+    <div class="slider-btn slider-btn-next"></div> 
+  </div>
+  <!-- /Slider -->
+
+
+</div>
+
+<script src="./js/simpleSlider.min.js"></script>
+<script>
+  new SimpleSlider('.page-slider', {
+    autoplay: true,
+    delay: 2000
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+[_MG_0176]=Estancia Jesuitica Santa Catalina - Cordoba-
+[_MG_5837]=Estancia Jesuitica Jesus Maria - Cordoba -
+[_MG_4275]=Antiguo casco de la Estancia El Carrizal- Cno Real Cordoba
+[_MG_5887]=Estancia Jesuitica Colonia Caroya - Cordoba
+[_MG_7456]=Antigua y abandonada estación de trenes de Tilquicho -Córdoba-
+[_DSF7692]=Puerto - San Clemente del Tuyú
+[_MG_8275]=Puerto - San Clemente del Tuyú
+[Fuji-069]=San Sebastián de la Selva - Misiones -
+[_DSF8055]=Av.9 de Julio - Ciudad de Buenos Aires -
+[_DSF8077]=Av. de Mayo -Ciudad de Buenos Aires -
+[_DSF8108]=Cuùla del Teatro Colón
+[_DSF8013]=Puerto de Gral Lavalle -Pcia Bs.As-
+[_DSF8066]=Cúpula del Palacio Barolo -Ciudad de Buenos Aires-
+[_DSF8531]=Puerto de Gral. Lavalle
+[_DSF8475]=Estacion Ferroviaria Sto.Domingo -Pcia.BS.As.

@@ -1,0 +1,6 @@
+[Yarara_007]=Yarará.
+[_MG_4081]=Escuerzo
+[_MG_8024}=Lagarto Overo (Tupinambis teguixin) 
+[_MG_8836]=Lagarto Overo (Tupinambis teguixin)
+[_MG_0892]=Yacaré Ñato (Caiman latirostris)
+[_MG_1425]=Yacaré (Caiman yacare)

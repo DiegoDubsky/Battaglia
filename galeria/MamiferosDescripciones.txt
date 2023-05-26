@@ -1,0 +1,17 @@
+[_MG_6420]=Venado de las Pampas (ozotoceros bezoarticus)
+[_MG_8513-b]=Lobo Marino de dos pelos Sudamericano
+[Zorro]=Zorro Gris
+[_MG_9787]=Guanaco (Lama guanicoe)
+[_MG_9963]=Peludo (Chaetophractus villosus)
+[_MG_9898]=Gato del Pajonal Juvenil (Lynchailurus pajeros)
+[_MG_7106]=Guanacos (Lama guanicoe)
+[_MG_7139]=Zorro Gris (Pseudalopex griseus)
+[_MG_6862]=Guanaco (Lama guanicoe)
+[IMG_3780]=Tuco-Tuco (Ctenomys talarum) 
+[_MG_8009]=Guanaco (Lama guanicoe)
+[_MG_9559]=Mono Cai (Cebus apella)
+[_MG_0485]=Carpincho (Hydrochoerus hydrochaeris)
+[_MG_2246]=Coati (Nasua nasua)
+[_MG_0576]=Venado de los pantanos -hembra- (Blastocerus dichotomus)
+[_MG_0286]=Mono Caraya -hembra- (Alouatta caraya)
+[_MG_6854]=Guanacos (Lama guanicoe) P.de Valdes 

@@ -1,0 +1,47 @@
+/* Scroll Bar Master Styling Starts Here */
+/* All comments can be freely removed from the css */
+
+.scrollgeneric {
+line-height: 1px;
+font-size: 1px;
+position: absolute;
+top: 0; left: 0;
+}
+
+.vscrollerbase {
+width: 10px;
+border-radius: 3px;
+background-color: rgb(167, 175, 157);
+webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 1);
+moz-box-shadow: inset 0 0 2px rgba(0, 0, 0, 1);
+box-shadow: inset 0 0 2px rgba(0, 0, 0, 1);
+}
+.vscrollerbar {
+width: 8px;
+border-radius: 3px;
+background-color: rgb(84, 114, 42);
+webkit-box-shadow: inset 0 0 2px rgba(44, 70, 26, 1);
+moz-box-shadow: inset 0 0 2px rgba(44, 70, 26, 1);
+box-shadow: inset 0 0 2px rgba(44, 70, 26, 1);
+border: solid 1px rgba(15, 54, 0, 0.84);
+}
+.hscrollerbase 
+{
+    display:none;
+height: 10px;
+background-color: white;
+}
+.hscrollerbar {
+height: 10px;
+display:none;
+background-color: black;
+}
+
+.scrollerjogbox {
+width: 10px;
+height: 10px;
+top: auto; left: auto;
+bottom: 0px; right: 0px;
+background-color: gray;
+display:none;
+}
